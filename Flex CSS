@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sunset View</title>
+        <style>
+            .lot{
+                background-color: aquamarine;
+                height:200px;
+                width:290px;
+                padding:20px;
+                gap:20px;
+                display:flex;
+                border-radius:50%;
+                justify-content:center;
+                flex-wrap:wrap;
+            }   
+            .plot{
+                background-color: rgb(94, 116, 108);
+                height:80px;
+                width:80px;
+                border-radius:50%;
+                display:flex;
+                flex-wrap:wrap; 
+                gap:2px;
+                flex-direction: row;
+                justify-content:center;
+                align-items: center;
+            }
+            .c{
+                background-color: rgb(225, 158, 161);
+                display:flex;
+                height:5px;
+                width:5px;
+                flex-wrap:wrap;
+                border-radius:50%;
+                padding:2px;
+                gap:1px;
+                display:flex;
+                justify-content:center;
+                align-items: center;
+            
+            }
+            .c2{
+                background-color: rgb(32, 26, 26);
+                display:flex;
+                height:2px;
+                width:2px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="lot">
+        
+            <div class="plot">
+                <div class="c" ><div class="c2"></div></div>
+            <div class="c">
+                <div class="c2"></div>
+            </div>
+            <div class="c">
+                <div class="c2"></div>
+            </div>
+            <div class="c">
+                <div class="c2"></div>
+            </div>
+            <div class="c"><div class="c2"></div></div>
+
+                   </div>
+            <div class="plot">
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div> 
+                  </div>
+            <div class="plot">
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                   </div>
+            <div class="plot"> 
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                  </div>
+            <div class="plot"> 
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+                <div class="c"><div class="c2"></div></div>
+
+                  </div>
+
+        </div>
