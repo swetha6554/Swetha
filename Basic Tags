@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <link rel="stylesheet" href="./index.css">
+        <style>
+           .header{color:rgba(242, 54, 54, 0.655);}
+           #para{color:brown;}
+           .kinder{
+            background-color:rgb(99, 49, 49);
+            color:blanchedalmond;
+            border: 10px solid rgb(168, 12, 12);
+            padding-left:140px;
+            margin-left: 60px;
+            margin-right: 40px;
+        }
+        .lot{
+            background-color:blue;
+            height:300px;
+            width:400px;
+        }
+        </style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, inital-scale=1.0">
+        <title>MERN 1</title>
+    </head>
+    <BODY>
+        <h1 style="color:rgb(118, 87, 171)",class="header">SUNSET</h1>
+        <h2>Birds</h2>
+        <h3 >animals</h3>
+        <h4>water</h4>
+        <h5>air</h5>
+        <h6>land</h6>
+        <p id="para">Today it is too beautiful.
+            Cherish it
+            <br> until the moment is over.</p>
+            <h1>Locations best for Sunset View
+            </h1>
+            <list>
+                <ul>
+                    <li>Thiruvanathapuram Beach</li>
+                    <li>Goa Beach</li>
+                    <li><u>Munnar Hills</u></li>
+                </ul>
+            </list>
+            <div class="kinder">Look into this</div>
+            <div style="display:inline;background-color:blue;">jeopardy</div>
+            <table>
+                <tr>
+                    <th>S.No</th>
+                    <th>Transport</th>
+                    <th>Ticket Price</th>
+                </tr>
+                <tr>
+                    <td>1
+                    </td>
+                    <td><b>Bus</b></td>
+                    <td>1500</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td><i>train</i></td>
+                    <td>2000</td>
+                </tr>
+            </table>
+            <div class="lot">t</div>
+    </BODY>
+</html>
